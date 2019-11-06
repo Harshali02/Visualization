@@ -8,4 +8,4 @@ In this project, various publicly available authenticate datasets has been used.
  1.	WorldBank Dataset: The World Bank provides free and open access to a wide range of datasets about development in countries around the globe, together with other datasets cited in the data catalog. </br>
  [Dataset Source](http://databank.worldbank.org/data/source/world-development-indicators)</br>
 
-  A video explaining about the project right from data extraction to vusaulizing the relation between Life Expectancy and GDP can be found here: [Link](https://www.youtube.com/channel/UC9pHvkWmZQH3LtU40kd8qqQ/featured)</br>
+  A video explaining about the project right from data extraction to visaulizing the relation between Life Expectancy and GDP can be found here: [Link](https://www.youtube.com/channel/UC9pHvkWmZQH3LtU40kd8qqQ/featured)</br>
